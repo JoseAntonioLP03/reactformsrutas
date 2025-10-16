@@ -9,6 +9,18 @@ render() {
                     <a href='/'>Home</a>
                 </li>
                 <li>
+                    <a href='/seleccionmultiple'>Seleccion Multiple</a>
+                </li>
+                <li>
+                    <a href='/tablamultiplicar'>Tabla Multiplicar</a>
+                </li>
+                <li>
+                    <a href='/tablamultiplicarv2'>Tabla MultiplicarV2</a>
+                </li>
+                <li>
+                    <a href='/collatz'>Collatz</a>
+                </li>
+                <li>
                     <a href='/formsimple'>Form Simple</a>
                 </li>
                 <li>
